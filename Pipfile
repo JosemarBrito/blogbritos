@@ -10,6 +10,7 @@ django-summernote = "*"
 mysqlclient = {file = "https://download.lfd.uci.edu/pythonlibs/q4trcu4l/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl"}
 
 [dev-packages]
+flake8 = "*"
 
 [requires]
 python_version = "3.9"
