@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "197ca9d6a9fbe2ce5585af2d011bb6caca2d9556baec68228cc4c1091fdfa5ec"
+            "sha256": "c0035b2d29c7e3b32355bf504e379a35f76a2b6962743f02d3cd7a5030692417"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -46,18 +46,6 @@
             ],
             "index": "pypi",
             "version": "==20.1.0"
-        },
-        "mysqlclient": {
-            "file": "https://download.lfd.uci.edu/pythonlibs/q4trcu4l/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl",
-            "hashes": [
-                "sha256:4c82187dd6ab3607150fbb1fa5ef4643118f3da122b8ba31c3149ddd9cf0cb39",
-                "sha256:9e6080a7aee4cc6a06b58b59239f20f1d259c1d2fddf68ddeed242d2311c7087",
-                "sha256:ca6886e5e347b7d4d18e7e8746733fc77f8e7ad8247568f2b808b13dea1dda0e",
-                "sha256:f3fdaa9a38752a3b214a6fe79d7cae3653731a53e577821f9187e67cbecb2e16",
-                "sha256:f646f8d17d02be0872291f258cce3813497bc7888cd4712a577fd1e719b2f213"
-            ],
-            "index": "pypi",
-            "version": "==1.4.6"
         },
         "pillow": {
             "hashes": [
