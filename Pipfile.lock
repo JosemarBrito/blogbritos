@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6e920897e4efa979ef69d63c3d718ae2d1c244e82948331a9ef6c761d478f3e1"
+            "sha256": "197ca9d6a9fbe2ce5585af2d011bb6caca2d9556baec68228cc4c1091fdfa5ec"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -39,15 +39,25 @@
             "index": "pypi",
             "version": "==0.8.11.6"
         },
-        "mysqlclient": {
+        "gunicorn": {
             "hashes": [
-                "sha256:0ac0dd759c4ca02c35a9fedc24bc982cf75171651e8187c2495ec957a87dfff7",
-                "sha256:3381ca1a4f37ff1155fcfde20836b46416d66531add8843f6aa6d968982731c3",
-                "sha256:71c4b330cf2313bbda0307fc858cc9055e64493ba9bf28454d25cf8b3ee8d7f5",
-                "sha256:f6ebea7c008f155baeefe16c56cd3ee6239f7a5a9ae42396c2f1860f08a7c432",
-                "sha256:fc575093cf81b6605bed84653e48b277318b880dc9becf42dd47fa11ffd3e2b6"
+                "sha256:9dcc4547dbb1cb284accfb15ab5667a0e5d1881cc443e0677b4882a4067a807e",
+                "sha256:e0a968b5ba15f8a328fdfd7ab1fcb5af4470c28aaf7e55df02a99bc13138e6e8"
             ],
-            "version": "==2.0.3"
+            "index": "pypi",
+            "version": "==20.1.0"
+        },
+        "mysqlclient": {
+            "file": "https://download.lfd.uci.edu/pythonlibs/q4trcu4l/mysqlclient-1.4.6-cp39-cp39-win_amd64.whl",
+            "hashes": [
+                "sha256:4c82187dd6ab3607150fbb1fa5ef4643118f3da122b8ba31c3149ddd9cf0cb39",
+                "sha256:9e6080a7aee4cc6a06b58b59239f20f1d259c1d2fddf68ddeed242d2311c7087",
+                "sha256:ca6886e5e347b7d4d18e7e8746733fc77f8e7ad8247568f2b808b13dea1dda0e",
+                "sha256:f3fdaa9a38752a3b214a6fe79d7cae3653731a53e577821f9187e67cbecb2e16",
+                "sha256:f646f8d17d02be0872291f258cce3813497bc7888cd4712a577fd1e719b2f213"
+            ],
+            "index": "pypi",
+            "version": "==1.4.6"
         },
         "pillow": {
             "hashes": [
