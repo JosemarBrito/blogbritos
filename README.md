@@ -8,4 +8,4 @@ Publicado no [heroku](https://blogbritoscode.herokuapp.com/)
 [![Updates](https://pyup.io/repos/github/JosemarBrito/blogbritos/shield.svg)](https://pyup.io/repos/github/JosemarBrito/blogbritos/)
 [![Python 3](https://pyup.io/repos/github/JosemarBrito/blogbritos/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/blogbritos/)
 
-
+collectstatic
