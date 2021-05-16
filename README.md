@@ -9,3 +9,5 @@ Publicado no [heroku](https://blogbritoscode.herokuapp.com/)
 [![Python 3](https://pyup.io/repos/github/JosemarBrito/blogbritos/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/blogbritos/)
 
 collectstatic
+
+video pausado em 32 minutos;.... rever configuraçao de comentario do post
