@@ -1,6 +1,5 @@
 from django.contrib import admin
-
-from categorias.models import Categoria
+from .models import Categoria
 
 
 class CategoriaAdmin(admin.ModelAdmin):
