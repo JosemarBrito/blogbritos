@@ -7,5 +7,8 @@ Publicado no [heroku](https://blogbritoscode.herokuapp.com/)
 [![codecov](https://codecov.io/gh/JosemarBrito/blogbritos/branch/main/graph/badge.svg?token=H4WX0R2RUH)](https://codecov.io/gh/JosemarBrito/blogbritos)
 [![Updates](https://pyup.io/repos/github/JosemarBrito/blogbritos/shield.svg)](https://pyup.io/repos/github/JosemarBrito/blogbritos/)
 [![Python 3](https://pyup.io/repos/github/JosemarBrito/blogbritos/python-3-shield.svg)](https://pyup.io/repos/github/JosemarBrito/blogbritos/)
+![fluxo de trabalho de exemplo](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 collectstatic
+
+video pausado em 32 minutos;.... rever configuraçao de comentario do post
