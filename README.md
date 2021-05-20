@@ -11,4 +11,3 @@ Publicado no [heroku](https://blogbritoscode.herokuapp.com/)
 
 collectstatic
 
-video pausado em 32 minutos;.... rever configuraçao de comentario do post
