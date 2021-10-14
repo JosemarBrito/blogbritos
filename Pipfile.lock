@@ -33,10 +33,9 @@
         },
         "django-summernote": {
             "hashes": [
-                "sha256:c23dae35c287f0d3d1ff801654ace77c3c6836453162e87c7330710d74d2eb88"
+                "sha256:52e9b12438ed9eac0d77729f758f2aae06e468b5cbce133e24100d58ae4e43a8"
             ],
-            "index": "pypi",
-            "version": "==0.8.11.6"
+            "version": "==0.8.20.0"
         },
         "gunicorn": {
             "hashes": [
